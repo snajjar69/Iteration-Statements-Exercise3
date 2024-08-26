@@ -1,0 +1,15 @@
+C:\Users\snajjar69\Desktop\repos\Iteration-Statements-Exercise3\IterationStatementsLoop_Exercice3\bin\Debug\net6.0\IterationStatementsLoop_Exercice3.exe
+C:\Users\snajjar69\Desktop\repos\Iteration-Statements-Exercise3\IterationStatementsLoop_Exercice3\bin\Debug\net6.0\IterationStatementsLoop_Exercice3.deps.json
+C:\Users\snajjar69\Desktop\repos\Iteration-Statements-Exercise3\IterationStatementsLoop_Exercice3\bin\Debug\net6.0\IterationStatementsLoop_Exercice3.runtimeconfig.json
+C:\Users\snajjar69\Desktop\repos\Iteration-Statements-Exercise3\IterationStatementsLoop_Exercice3\bin\Debug\net6.0\IterationStatementsLoop_Exercice3.dll
+C:\Users\snajjar69\Desktop\repos\Iteration-Statements-Exercise3\IterationStatementsLoop_Exercice3\bin\Debug\net6.0\IterationStatementsLoop_Exercice3.pdb
+C:\Users\snajjar69\Desktop\repos\Iteration-Statements-Exercise3\IterationStatementsLoop_Exercice3\obj\Debug\net6.0\IterationStatementsLoop_Exercice3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\snajjar69\Desktop\repos\Iteration-Statements-Exercise3\IterationStatementsLoop_Exercice3\obj\Debug\net6.0\IterationStatementsLoop_Exercice3.AssemblyInfoInputs.cache
+C:\Users\snajjar69\Desktop\repos\Iteration-Statements-Exercise3\IterationStatementsLoop_Exercice3\obj\Debug\net6.0\IterationStatementsLoop_Exercice3.AssemblyInfo.cs
+C:\Users\snajjar69\Desktop\repos\Iteration-Statements-Exercise3\IterationStatementsLoop_Exercice3\obj\Debug\net6.0\IterationStatementsLoop_Exercice3.csproj.CoreCompileInputs.cache
+C:\Users\snajjar69\Desktop\repos\Iteration-Statements-Exercise3\IterationStatementsLoop_Exercice3\obj\Debug\net6.0\IterationStatementsLoop_Exercice3.sourcelink.json
+C:\Users\snajjar69\Desktop\repos\Iteration-Statements-Exercise3\IterationStatementsLoop_Exercice3\obj\Debug\net6.0\IterationStatementsLoop_Exercice3.dll
+C:\Users\snajjar69\Desktop\repos\Iteration-Statements-Exercise3\IterationStatementsLoop_Exercice3\obj\Debug\net6.0\refint\IterationStatementsLoop_Exercice3.dll
+C:\Users\snajjar69\Desktop\repos\Iteration-Statements-Exercise3\IterationStatementsLoop_Exercice3\obj\Debug\net6.0\IterationStatementsLoop_Exercice3.pdb
+C:\Users\snajjar69\Desktop\repos\Iteration-Statements-Exercise3\IterationStatementsLoop_Exercice3\obj\Debug\net6.0\IterationStatementsLoop_Exercice3.genruntimeconfig.cache
+C:\Users\snajjar69\Desktop\repos\Iteration-Statements-Exercise3\IterationStatementsLoop_Exercice3\obj\Debug\net6.0\ref\IterationStatementsLoop_Exercice3.dll
